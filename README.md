@@ -73,6 +73,6 @@ For any further information, I will be happy to hear from you.
 
 ## CONTRIBUTING
 - download the .zip file.
-
-    `git clone https://github.com/`
+- git clone
+    `https://github.com/HasanSho/Classic-Arcade-Game.git`
 
