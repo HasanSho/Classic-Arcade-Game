@@ -1,9 +1,9 @@
-# Classic Arcade Game Clone Project
+ Classic Arcade Game Clone Project
 
 ## Table of Contents
 
 - [INSTRUCTIONS](#INSTRUCTIONS)
-- [HOW TO PLAY](#HOW TOP PLAY)
+- [HOW TO PLAY](#HOW TO PLAY)
 - [MORE DETAILS](#MORE DETAILS)
 - [INFORMATION PANEL](#INFORMATION PANEL)
 - [CONTACT INFO](#CONTACT INFO)
